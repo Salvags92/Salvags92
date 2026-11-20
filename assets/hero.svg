@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-label="Salvador Gómez Sánchez · Full-Stack Developer en formación · Disponible para prácticas">
+  <defs>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="0.5" stop-color="#a371f7"/>
+      <stop offset="1" stop-color="#58a6ff"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-1 0;0 0;-1 0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58a6ff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#a371f7"/>
+      <stop offset="1" stop-color="#58a6ff" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#a371f7" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#a371f7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#58a6ff" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#58a6ff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#30363d"/>
+    </pattern>
+    <radialGradient id="fade" cx="0.5" cy="0.5" r="0.55">
+      <stop offset="0" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <mask id="dotmask"><rect width="1000" height="360" fill="url(#fade)"/></mask>
+  </defs>
+  <style>
+    .sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; }
+  </style>
+
+  <rect width="1000" height="360" fill="#0d1117"/>
+  <rect width="1000" height="360" fill="url(#dots)" mask="url(#dotmask)" opacity="0.7"/>
+  <ellipse cx="300" cy="150" rx="320" ry="190" fill="url(#glowA)">
+    <animate attributeName="cx" values="300;360;300" dur="12s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="720" cy="210" rx="320" ry="190" fill="url(#glowB)">
+    <animate attributeName="cx" values="720;660;720" dur="12s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <text x="500" y="92" text-anchor="middle" class="sans" font-size="14" font-weight="600" letter-spacing="5" fill="#7d8590">FULL-STACK DEVELOPER · DAW</text>
+
+  <text x="500" y="172" text-anchor="middle" class="sans" font-size="64" font-weight="800" letter-spacing="-1" fill="url(#name)">Salvador Gómez Sánchez</text>
+
+  <rect x="350" y="198" width="300" height="2" fill="url(#line)"/>
+
+  <text x="500" y="240" text-anchor="middle" class="sans" font-size="19" fill="#c9d1d9">Backend con <tspan fill="#ffffff" font-weight="600">Java</tspan> y <tspan fill="#ffffff" font-weight="600">Spring Boot</tspan> · <tspan fill="#ffffff" font-weight="600">Node.js</tspan> · Bases de datos · IA aplicada</text>
+
+  <g transform="translate(500 288)">
+    <rect x="-128" y="-17" width="256" height="34" rx="17" fill="#161b22" stroke="#238636" stroke-opacity="0.6"/>
+    <circle cx="-104" cy="0" r="5" fill="#3fb950"/>
+    <circle cx="-104" cy="0" r="5" fill="none" stroke="#3fb950">
+      <animate attributeName="r" values="5;11" dur="1.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.8;0" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="10" y="5" text-anchor="middle" class="sans" font-size="14" font-weight="600" fill="#e6edf3">Disponible para prácticas</text>
+  </g>
+</svg>
