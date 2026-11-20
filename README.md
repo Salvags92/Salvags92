@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=30&duration=3500&pause=900&color=1F6F8B&center=true&vCenter=true&width=640&lines=Hola%2C+soy+Salvador+%F0%9F%91%8B;Desarrollador+web+en+formaci%C3%B3n;Backend+con+Java+y+Spring+Boot;Buscando+pr%C3%A1cticas+en+empresa" alt="Hola, soy Salvador" />
+# Hola, soy Salvador 👋
+
+### Desarrollador web en formación · Backend con Java y Spring Boot
 
 **Estudiante de 2.º de Desarrollo de Aplicaciones Web · Caudete (Albacete)**
 
