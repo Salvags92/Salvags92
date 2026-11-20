@@ -14,14 +14,14 @@
     <text x="28" y="70"><tspan class="pr">salvador@dev</tspan><tspan class="tx">:</tspan><tspan class="pa">~/proyectos</tspan><tspan class="tx">$ tree -L 1</tspan></text>
     <text x="28" y="96"><tspan class="pa">.</tspan></text>
 
-    <text x="28" y="122"><tspan class="tr">├── </tspan><tspan class="hi">gestor-eventos/</tspan>         <tspan class="tg">[Java · Spring Boot · API REST · MVC]</tspan></text>
-    <text x="28" y="144"><tspan class="tr">│   </tspan><tspan class="di"># App full-stack en equipo de tres. Monté la estructura MVC y la API.</tspan></text>
+    <text x="28" y="122"><tspan class="tr">├──</tspan></text><text x="68" y="122"><tspan class="hi">gestor-eventos/</tspan></text><text x="300" y="122"><tspan class="tg">[Java · Spring Boot · API REST · MVC]</tspan></text>
+    <text x="28" y="144"><tspan class="tr">│</tspan></text><text x="68" y="144"><tspan class="di"># App full-stack en equipo de tres. Monté la estructura MVC y la API.</tspan></text>
 
-    <text x="28" y="174"><tspan class="tr">├── </tspan><tspan class="hi">star-wars-app/</tspan>          <tspan class="tg">[Node.js · Express · EJS]</tspan></text>
-    <text x="28" y="196"><tspan class="tr">│   </tspan><tspan class="di"># Controladores, modelos, rutas, servicios y vistas bien separados.</tspan></text>
+    <text x="28" y="174"><tspan class="tr">├──</tspan></text><text x="68" y="174"><tspan class="hi">star-wars-app/</tspan></text><text x="300" y="174"><tspan class="tg">[Node.js · Express · EJS]</tspan></text>
+    <text x="28" y="196"><tspan class="tr">│</tspan></text><text x="68" y="196"><tspan class="di"># Controladores, modelos, rutas, servicios y vistas bien separados.</tspan></text>
 
-    <text x="28" y="226"><tspan class="tr">└── </tspan><tspan class="hi">gestion-instrumentos/</tspan>   <tspan class="tg">[Java · Spring Boot]</tspan></text>
-    <text x="28" y="248"><tspan class="tr">    </tspan><tspan class="di"># CRUD completo contra base de datos.</tspan></text>
+    <text x="28" y="226"><tspan class="tr">└──</tspan></text><text x="68" y="226"><tspan class="hi">gestion-instrumentos/</tspan></text><text x="300" y="226"><tspan class="tg">[Java · Spring Boot]</tspan></text>
+    <text x="68" y="248"><tspan class="di"># CRUD completo contra base de datos.</tspan></text>
 
     <text x="28" y="282"><tspan class="pr">salvador@dev</tspan><tspan class="tx">:</tspan><tspan class="pa">~/proyectos</tspan><tspan class="tx">$ git checkout -b proyecto-propio</tspan></text>
     <text x="28" y="306"><tspan class="tx">Switched to a new branch '</tspan><tspan class="pr">proyecto-propio</tspan><tspan class="tx">' </tspan><tspan class="di"># próximamente 🚀</tspan></text>
