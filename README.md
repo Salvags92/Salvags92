@@ -23,7 +23,7 @@
 
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Salvags92&show_icons=true&count_private=true&locale=es&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=a371f7" alt="Estadísticas de GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Salvags92&show_icons=true&count_private=true&hide_rank=true&locale=es&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=a371f7" alt="Estadísticas de GitHub" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salvags92&layout=compact&locale=es&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Lenguajes más usados" />
 
 </div>
