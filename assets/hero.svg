@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-label="Salvador Gómez Sánchez · Full-Stack Developer en formación · Disponible para prácticas">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-label="Full-Stack Developer en formación · Disponible para prácticas">
   <defs>
     <linearGradient id="name" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox">
       <stop offset="0" stop-color="#58a6ff"/>
@@ -41,9 +41,9 @@
     <animate attributeName="cx" values="720;660;720" dur="12s" repeatCount="indefinite"/>
   </ellipse>
 
-  <text x="500" y="92" text-anchor="middle" class="sans" font-size="14" font-weight="600" letter-spacing="5" fill="#7d8590">FULL-STACK DEVELOPER · DAW</text>
+  <text x="500" y="92" text-anchor="middle" class="sans" font-size="14" font-weight="600" letter-spacing="5" fill="#7d8590">ESTUDIANTE DE DESARROLLO DE APLICACIONES WEB</text>
 
-  <text x="500" y="172" text-anchor="middle" class="sans" font-size="64" font-weight="800" letter-spacing="-1" fill="url(#name)">Salvador Gómez Sánchez</text>
+  <text x="500" y="172" text-anchor="middle" class="sans" font-size="64" font-weight="800" letter-spacing="-1" fill="url(#name)">Full-Stack Developer</text>
 
   <rect x="350" y="198" width="300" height="2" fill="url(#line)"/>
 
