@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Salvador Gómez Sánchez · Full-Stack Developer en formación · Disponible para prácticas" />
+<img src="./assets/hero.svg" width="100%" alt="Full-Stack Developer en formación · Disponible para prácticas" />
 
 <a href="https://www.linkedin.com/in/salvador-gomez-dev"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn" /></a>
 <a href="mailto:gomez.salsan@gmail.com"><img src="https://img.shields.io/badge/gomez.salsan@gmail.com-161b22?style=for-the-badge&logo=gmail&logoColor=f778ba" alt="Email" /></a>
